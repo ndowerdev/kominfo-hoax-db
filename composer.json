@@ -14,5 +14,5 @@
         "name": "Rendrian Arma",
         "email": "rendrian@gustiarma.com"
     }],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
