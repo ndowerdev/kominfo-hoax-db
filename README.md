@@ -2,7 +2,14 @@
  PHP Grabber for Kominfo Hoax Database using Curl and [Didom](https://github.com/Imangazaliev/DiDOM)
 
 
+## Install using composer
+```
+composer require ndower/kominfo-hoax-db
+
+```
+
 ## Usage
+
 Require autoload.php
 ```
 require "autoload.php";
