@@ -1,0 +1,18 @@
+{
+    "name": "ndower/kominfo-hoax-db",
+    "description": "Grab database berita hoax dari situs kominfo",
+    "require": {
+        "imangazaliev/didom": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "KominfoHoaxDB\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Rendrian Arma",
+        "email": "rendrian@gustiarma.com"
+    }],
+    "minimum-stability": "dev"
+}
